@@ -1,8 +1,8 @@
-### Consulta de clima, aplicación de consola en NodeJS
+## Consulta de clima, aplicación de consola en NodeJS
 
 Ejecutar ``` npm install ``` para iniciar la aplicación.
 
-## Ejemplo de uso:
+### Ejemplo de uso:
 
 ``` node app -d Tegucigalpa ```
 
